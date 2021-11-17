@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![finished desktop website](.app\images\finished-long-screnshot.jpg)
+![finished desktop website](app/images/finished-long-screnshot.jpg)
 
 ### Links
 
