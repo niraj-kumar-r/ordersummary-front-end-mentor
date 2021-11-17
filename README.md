@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![finished desktop website](app/images/finished-long-screnshot.jpg)
-
+![finihed portrait website](app/images/finished-portrait-screenshot.jpg)
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
