@@ -102,6 +102,14 @@ h3{
     left: 18em;
 }
 
+.change-button:hover,
+.change-button:focus{
+    color: var(--neutral-desaturated-blue);
+    text-decoration-line: none;
+    cursor: pointer;
+
+}
+
 .music-icon{
     display: inline-block;
     position: absolute;
@@ -122,38 +130,33 @@ h3{
     text-align: center;
     padding: 1.35em;
 
-    box-shadow: 0em 1em 1em var(--neutral-desaturated-blue);
-    
-    /* position: relative; */
+    box-shadow: 0em 1em 1em hsla(223, 47%, 23%, 0.3);
 
 }
 
-/* .proceed-to-payment-button::after{
-    content: " ";
-    position: absolute;
-    border-radius: 1em;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    opacity: 0.5;
-
-    box-shadow: 0em 1em 1em var(--neutral-desaturated-blue);
+.proceed-to-payment-button:hover,
+.proceed-to-payment-button:focus{
+    background-color: hsla(245, 75%, 52%, 0.7);
+    cursor: pointer;
 }
-no need for a pseudo class just a simple box shadow will do */
-
 .cancel-order-button{
     /* background-color: violet; */
     color: var(--neutral-desaturated-blue);
     font-size: 1rem;
     font-weight: 700;
-    width: 22em;
-    height: 3.7em;
-    margin: 0.5em auto 2em;
+    width: 9em;
+    height: 3em;
+    margin: 0.75em auto 2em;
     border-radius: 1em;
     text-align: center;
-    padding: 1.35em;
+    padding: 0.5em;
 
+}
+
+.cancel-order-button:hover,
+.cancel-order-button:focus{
+    color: var(--neutral-dark-blue);
+    cursor: pointer;
 }
 
 .twitter-logo{
