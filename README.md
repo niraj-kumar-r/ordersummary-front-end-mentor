@@ -46,7 +46,7 @@ will be added when it is available -->
 
 1) Got to know about resizing svg files by removing the height and width property inside the root file of svg, which then allows to set width and height in css.(if you do know a better way, feel free to DM me)
 
-2) Learnt that var() is not used while declaring the variable in css, it is only used when calling
+2) Clarified that var() is not used while declaring the variable in css, it is only used when calling
 ```css
 :root{
     --primary-pale-blue: hsl(225, 100%, 94%);
