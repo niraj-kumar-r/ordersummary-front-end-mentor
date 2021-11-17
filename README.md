@@ -56,7 +56,7 @@ will be added when it is available -->
     background-color: var(--primary-pale-blue);
 }
 ```
-3) learnt about the proper syntax of box shadow
+3) Learnt about the proper syntax of box shadow
 
 box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
 
