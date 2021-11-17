@@ -4,7 +4,24 @@
     box-sizing: border-box;
 }
 
+:root{
+    --primary-pale-blue: hsl(225, 100%, 94%);
+    --primary-bright-blue: hsl(245, 75%, 52%);
+
+    --neutral-very-pale-blue: hsl(225, 100%, 98%);
+    --neutral-desaturated-blue: hsl(224, 23%, 55%);
+    --neutral-dark-blue: hsl(223, 47%, 23%);
+    
+}
+
 body{
-    background-color: hsl(225, 100%, 94%);
+    background-color: var(--primary-pale-blue);
     background-image: url( "images/pattern-background-desktop.svg" );
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.main-card{
+    background-color: white;
+    width: 30rem;
+    margin: auto;
 }
