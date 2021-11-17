@@ -51,12 +51,15 @@ p{
 }
 
 .annual-plan-card{
-    /* background-color: var(--neutral-very-pale-blue); */
-    background-color: red;
+    background-color: var(--neutral-very-pale-blue);
+    /* background-color: red; */
     width: 22em;
+    height: 6em;
     margin: auto;
 
     border-radius: 1em;
+
+    position: relative;
 
 }
 
@@ -67,5 +70,9 @@ p{
 
 .music-icon{
     display: inline-block;
+    position: absolute;
+    top: 1.5em;
+    bottom: 1.5em;
+    left: 1.5em;
 
 }
