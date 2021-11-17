@@ -22,22 +22,29 @@ body{
 
 .main-card{
     background-color: white;
-    width: 28em;
+    width: 28.1em;
     margin: auto;
     border-radius: 1em;
 }
 
 .hero-image{
-    width: 28em;
+    /* border-radius: 50%; */
 }
 
 .main-title{
+    /* background-color: red; */
     font-weight: 900;
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: var(--neutral-dark-blue);
+    width: 7.9em;
+    margin: 1.4em auto;
 }
 p{
     font-size: 1.125rem;
     font-weight: 500;
     color: var(--neutral-desaturated-blue)
+}
+
+.annual-plan{
+    background-color: var(--neutral-very-pale-blue);
 }
