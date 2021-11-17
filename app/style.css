@@ -37,14 +37,35 @@ body{
     font-size: 1.8rem;
     color: var(--neutral-dark-blue);
     width: 7.9em;
-    margin: 1.4em auto;
+    margin: 1.4em auto 0.7em;
 }
 p{
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 500;
-    color: var(--neutral-desaturated-blue)
+    color: var(--neutral-desaturated-blue);
+
+    /* background-color: red; */
+    width: 19em;
+    margin: 0.7em auto;
+    text-align: center;
+}
+
+.annual-plan-card{
+    /* background-color: var(--neutral-very-pale-blue); */
+    background-color: red;
+    width: 22em;
+    margin: auto;
+
+    border-radius: 1em;
+
 }
 
 .annual-plan{
-    background-color: var(--neutral-very-pale-blue);
+    display: inline-block;
+
+}
+
+.music-icon{
+    display: inline-block;
+
 }
