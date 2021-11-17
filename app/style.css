@@ -22,6 +22,22 @@ body{
 
 .main-card{
     background-color: white;
-    width: 30rem;
+    width: 28em;
     margin: auto;
+    border-radius: 1em;
+}
+
+.hero-image{
+    width: 28em;
+}
+
+.main-title{
+    font-weight: 900;
+    font-size: 2rem;
+    color: var(--neutral-dark-blue);
+}
+p{
+    font-size: 1.125rem;
+    font-weight: 500;
+    color: var(--neutral-desaturated-blue)
 }
