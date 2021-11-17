@@ -5,7 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+  <!-- css -->
+  <link rel="stylesheet" href="app\style.css">
+
+  <!-- font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap" rel="stylesheet"> 
   <title>Frontend Mentor | Order summary card</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
@@ -15,23 +21,61 @@
   </style>
 </head>
 <body>
+  <div class="main-card">
+    <div>
+      <img src="app/images/illustration-hero.svg" alt="a lady listening to music on headphones" class="hero-image">
+    </div>
 
-  Order Summary
+    <h1 class="main-title">
+      Order Summary
+    </h1>
+      
+    <p>
+      You can now listen to millions of songs, audiobooks, and podcasts on any 
+      device anywhere you like!
+    </p>
 
-  You can now listen to millions of songs, audiobooks, and podcasts on any 
-  device anywhere you like!
+    <div class="annual-plan-card">
 
-  Annual Plan
-  $59.99/year
+      <div class="music-icon">
+        <img src="app/images/icon-music.svg" alt="music icon">
+      </div>
 
-  Change
+      <div class="rate-plan">
+        <h2>
+          Annual Plan
+        </h2>
 
-  Proceed to Payment
-  Cancel Order
-  
+        <h3>
+          $59.99/year
+        </h3>
+          
+          
+      </div>     
+      
+      <div class="change-button">
+        Change
+      </div>
+
+    </div>
+
+    <div class="proceed-to-payment-button">
+      Proceed to Payment
+    </div>
+      
+    <div class="cancel-order-button">
+      Cancel Order
+    </div>
+
+    
+  </div>
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    
+    Coded by <a href="https://github.com/niraj-kumar-r">Niraj Kumar</a>. 
+
+    <a href="https://twitter.com/niraj_kumar_r/"><img src="app/images/twitter-3-logo-svg-vector.svg" alt="twitter logo"  class="twitter-logo"></a>
+      
   </div>
 </body>
 </html>
