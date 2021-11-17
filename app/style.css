@@ -18,6 +18,7 @@
 body{
     background-color: var(--primary-pale-blue);
     background-image: url( "images/pattern-background-desktop.svg" );
+    background-repeat: no-repeat;
     font-family: 'Red Hat Display', sans-serif;
 }
 
@@ -151,4 +152,11 @@ h3{
     text-align: center;
     padding: 1.35em;
 
+}
+
+.twitter-logo{
+    display: inline-block;
+    height: 0.9rem;
+    width: 0.9rem;
+    
 }
