@@ -95,6 +95,17 @@ h3{
     left: 6em;
 }
 
+.change{
+    /* background-color: violet; */
+    position: absolute;
+    color: var(--primary-bright-blue);
+    font-weight: 900;
+    font-size: 0.9rem;
+    text-decoration-line: underline;
+    top: 2.7em;
+    left: 18em;
+}
+
 .music-icon{
     display: inline-block;
     position: absolute;
