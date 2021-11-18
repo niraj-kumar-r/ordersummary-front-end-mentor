@@ -31,7 +31,7 @@ Users should be able to:
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
 will be added when it is available -->
-- Live Site URL: [Live site URL](https://niraj-order-summary.netlify.app/)
+- Live Site URL: [niraj-order-summary-frontendmentor](https://niraj-order-summary-frontendmentor.netlify.app/)
 
 
 ## My process
@@ -75,7 +75,7 @@ This is not a responsive site as I haven't learnt it yet. This will be done in t
 
 - Frontend Mentor - [@niraj-kumar-r](https://www.frontendmentor.io/profile/niraj-kumar-r)
 - Twitter - [@niraj_kumar_r](https://www.twitter.com/niraj_kumar_r)
-- Live Site URL - [live sit URL](https://niraj-order-summary.netlify.app/)
+- Live Site URL - [niraj-order-summary-frontendmentor](https://niraj-order-summary-frontendmentor.netlify.app/)
 
 <!-- - Website - [Niraj Kumar](https://www.your-site.com) 
 will be added later when I actually learn enough to make one myself-->
