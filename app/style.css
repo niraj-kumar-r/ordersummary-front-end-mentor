@@ -25,7 +25,8 @@ body{
 .main-card{
     background-color: var(--primary-white);
     width: 28.125em;
-    margin: auto;
+    height: 45em;
+    margin: 6.5rem auto;
     border-radius: 1em;
 }
 
@@ -40,7 +41,7 @@ body{
     font-weight: 900;
     color: var(--neutral-dark-blue);
     width: 8.7em;
-    margin: 0.5em auto 0.25em;
+    margin: 1.75em auto 0.75em;
 }
 
 p{
@@ -50,7 +51,7 @@ p{
 
     /* background-color: red; */
     width: 19em;
-    margin: 0.5em auto;
+    margin: 0.75em auto 2em;
     text-align: center;
 }
 
@@ -125,7 +126,7 @@ h3{
     font-weight: 700;
     width: 22em;
     height: 3.7em;
-    margin: 1.5em auto 0.5em;
+    margin: 2em auto 2em;
     border-radius: 1em;
     text-align: center;
     padding: 1.35em;
@@ -144,9 +145,9 @@ h3{
     color: var(--neutral-desaturated-blue);
     font-size: 1rem;
     font-weight: 700;
-    width: 9em;
-    height: 3em;
-    margin: 0.65em auto 0.5em;
+    width: 8.5em;
+    height: 2em;
+    margin: 2em auto 0.5em;
     border-radius: 1em;
     text-align: center;
     padding: 0.5em;
@@ -157,6 +158,13 @@ h3{
 .cancel-order-button:focus{
     color: var(--neutral-dark-blue);
     cursor: pointer;
+}
+
+.attribution{
+    /* background-color: violet; */
+    text-align: center;
+    width: 30em;
+    margin: auto;
 }
 
 .twitter-logo{
