@@ -15,8 +15,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,9 @@ Users should be able to:
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 will be added when it is available -->
+- Live Site URL: [Live site URL](https://niraj-order-summary.netlify.app/)
+
 
 ## My process
 
@@ -76,6 +75,7 @@ This is not a responsive site as I haven't learnt it yet. This will be done in t
 
 - Frontend Mentor - [@niraj-kumar-r](https://www.frontendmentor.io/profile/niraj-kumar-r)
 - Twitter - [@niraj_kumar_r](https://www.twitter.com/niraj_kumar_r)
+- Live Site URL - [live sit URL](https://niraj-order-summary.netlify.app/)
 
 <!-- - Website - [Niraj Kumar](https://www.your-site.com) 
 will be added later when I actually learn enough to make one myself-->
